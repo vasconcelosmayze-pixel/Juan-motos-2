@@ -1,0 +1,7 @@
+{
+  "name": "Juan Motos - Aluguel de Motos",
+  "description": "Aplicativo de locação de motos Juan Motos. Cadastro de clientes, contratos e suporte via WhatsApp.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
